@@ -1,0 +1,20 @@
+{
+    "db_url": "mongodb+srv://jeetsemicolon:jeet@0407@cluster0.u8l7t8f.mongodb.net/instructAi",
+    "jwt_token_secret": "instruct-Ai-Key",
+    "refresh_jwt_token_secret": "instruct-Ai-Key",
+    "Winston": {
+        "level": "debug"
+    },
+    "nodeMail": {
+        "mail": "jeet.semicolon@gmail.com",
+        "password": "ynmiypjnhefginhx",
+        "service": "gmail"
+    },
+    "cloudinary": {
+        "name": "danz85nwq",
+        "api_key": "775831286653157",
+        "api_secret": "ImXtI5hMm06kzrhYJjPvdgCXD2E"
+    },
+    "timeZone": "Asia/Kolkata",
+    "apiKey": "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"
+}
